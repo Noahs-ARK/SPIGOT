@@ -1,0 +1,91 @@
+#SDP 2015
+#21999039
+1	In	in	IN	13	prep	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	composite	composite	JJ	3	amod	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	trading	trade	NN	1	pobj	-	-	v:e-i-p	ARG2	compound	ARG1	_	_	_	_	_	_	_	_	_	_
+4	on	on	IN	3	prep	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	9	det	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	New	_generic_proper_ne_	NNP	9	nn	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	York	York	NNP	9	nn	-	+	named:x-c	_	_	_	_	compound	_	_	_	_	_	_	_	_
+8	Stock	stock	NNP	9	nn	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Exchange	exchange	NNP	4	pobj	-	-	n:x	_	_	ARG2	BV	_	compound	compound	_	_	_	_	_	_
+10	,	_	,	13	punct	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Cincinnati	Cincinnati	NNP	12	nn	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	Bell	Bell	NNP	13	nsubj	-	-	named:x-c	_	_	_	_	_	_	_	compound	ARG1	_	_	_	_
+13	fell	fall	VBD	0	root	+	+	v:e-i	ARG1	_	_	_	_	_	_	_	_	_	loc	ARG1	_
+14	25	_generic_card_ne_	CD	15	num	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	cents	cent	NNS	13	dobj	-	+	n:x	_	_	_	_	_	_	_	_	_	ARG1	_	_	_
+16	to	to	TO	13	prep	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	$	$	$	16	pobj	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	ARG2	ARG1
+18	29	_generic_card_ne_	CD	17	num	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	.	_	.	13	punct	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#21999040
+1	The	the	DT	2	det	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_
+2	company	company	NN	3	nsubj	-	-	n_of:x-i	BV	ARG1	_	_	_	_	_	_	_	_	_	_
+3	said	say	VBD	0	root	+	+	v_to:e-i-h-i	_	_	_	_	_	_	_	_	_	_	_	_
+4	that	that	IN	10	mark	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	6	det	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_
+6	number	number	NN	10	nsubj	-	+	n_of:x-i	_	_	BV	_	_	ARG1	_	_	_	_	_	_
+7	of	of	IN	6	prep	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	access	access	NN	9	nn	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_
+9	lines	line	NNS	7	pobj	-	-	n_of:x	_	_	_	ARG1	compound	_	_	_	_	_	_	_
+10	dropped	drop	VBD	18	advcl	-	+	v:e-i	_	ARG2	_	_	_	_	ARG1	ARG1	_	_	_	_
+11	slightly	slightly	RB	10	advmod	-	+	a:e-e	_	_	_	_	_	_	_	_	_	_	_	_
+12	in	in	IN	10	prep	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_
+13	the	the	DT	14	det	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_
+14	quarter	quarter	NN	12	pobj	-	-	n_temp:x	_	_	_	_	_	_	_	ARG2	BV	_	_	_
+15	,	_	,	18	punct	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	a	a	DT	17	det	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_
+17	decline	decline	NN	18	nsubj	-	-	n:x	_	conj	_	_	_	_	_	_	_	BV	ARG2	_
+18	attributed	attribute	VBN	3	ccomp	-	+	v_to:e-i-p-i	_	_	_	_	_	_	_	_	_	_	_	_
+19	to	to	TO	18	prep	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	seasonal	seasonal	JJ	21	amod	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_
+21	fluctuations	fluctuation	NNS	19	pobj	-	-	n_in:x-i	_	_	_	_	_	_	_	_	_	_	ARG3	ARG1
+22	.	_	.	3	punct	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#21999041
+1	For	for	IN	12	prep	-	+	p:e-u-i	_	_	_	_	_	_	_
+2	the	the	DT	3	det	-	+	q:i-h-h	_	_	_	_	_	_	_
+3	year	year	NN	1	pobj	-	-	n:x	ARG2	BV	_	_	_	_	_
+4	,	_	,	12	punct	-	-	_	_	_	_	_	_	_	_
+5	however	however	RB	12	advmod	-	-	_	_	_	_	_	_	_	_
+6	,	_	,	12	punct	-	-	_	_	_	_	_	_	_	_
+7	access	access	NN	8	nn	-	+	n:x	_	_	_	_	_	_	_
+8	lines	line	NNS	12	nsubj	-	-	n_of:x	_	_	compound	ARG1	ARG1	_	_
+9	in	in	IN	8	prep	-	+	p:e-u-i	_	_	_	_	_	_	_
+10	service	service	NN	9	pobj	-	-	n:x	_	_	_	ARG2	_	_	_
+11	have	have	VBP	12	aux	-	-	_	_	_	_	_	_	_	_
+12	increased	increase	VBN	0	root	+	+	v:e-i	ARG1	_	_	_	_	_	loc
+13	5.5	_generic_card_ne_	CD	14	num	-	+	card:i-i-c	_	_	_	_	_	_	_
+14	%	%	NN	12	dobj	-	+	n_of:x	_	_	_	_	_	ARG1	_
+15	.	_	.	12	punct	-	-	_	_	_	_	_	_	_	_
+
+#21999042
+1	Chairman	chairman	NNP	3	nn	-	+	n_of:x-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	D.H.	_generic_proper_ne_	NNP	3	nn	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Hibbard	_generic_proper_ne_	NNP	4	nsubj	-	-	named:x-c	compound	compound	ARG1	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	said	say	VBD	0	root	+	+	v_to:e-i-h-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	6	det	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	company	company	NN	8	nsubj	-	-	n_of:x-i	_	_	_	BV	ARG1	_	_	_	_	_	_	_	_	_	_	_	_
+7	has	has	VBZ	8	aux	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	set	set	VBN	4	ccomp	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG1	_	_
+9	a	a	DT	13	det	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	new	new	JJ	13	amod	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	five	five	CD	13	num	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	year	year	NN	13	nn	-	+	n:x	_	_	_	_	_	_	_	ARG1	_	_	_	_	_	_	_	_	_
+13	goal	goal	NN	8	dobj	-	-	n:x	_	_	_	_	ARG2	BV	ARG1	_	compound	ARG1	_	_	_	_	_	_	_
+14	of	of	IN	13	prep	-	+	p:e-x-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	doubling	double	VBG	14	pcomp	-	+	v_cause:e-i-p	_	_	_	_	_	_	_	_	_	ARG2	_	ARG1	_	_	_	_	_
+16	revenues	revenue	NNS	15	dobj	-	-	n:x	_	_	_	_	_	_	_	_	_	_	ARG2	_	_	_	_	_	_
+17	to	to	TO	15	prep	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	about	about	IN	19	quantmod	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	$	$	$	17	pobj	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	ARG1	_	_	_
+20	1.8	_generic_card_ne_	CD	19	number	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	billion	billion	CD	19	number	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	times	_	_	_	_
+22	while	while	IN	24	mark	-	+	x:e-h-h	_	_	ARG2	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	steadily	steadily	RB	24	advmod	-	+	a:e-e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	increasing	increase	VBG	15	advcl	-	+	v_cause:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	ARG1	_
+25	net	net	NN	24	dobj	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2
+26	.	_	.	4	punct	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+

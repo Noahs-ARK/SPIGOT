@@ -1,0 +1,2 @@
+recursive-include argmax_ste *.h *.cpp
+recursive-include Eigen *

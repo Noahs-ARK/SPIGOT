@@ -1,0 +1,91 @@
+#SDP 2015
+#21999039
+1	In	in	IN	13	prep	-	-	_	_	_	_	_	_	_	_
+2	composite	composite	JJ	3	amod	-	-	_	RSTR	_	_	_	_	_	_
+3	trading	trading	NN	1	pobj	-	+	_	_	_	_	_	LOC	_	_
+4	on	on	IN	3	prep	-	-	_	_	_	_	_	_	_	_
+5	the	the	DT	9	det	-	-	_	_	_	_	_	_	_	_
+6	New	New	NNP	9	nn	-	-	_	_	NE	_	_	_	_	_
+7	York	York	NNP	9	nn	-	+	_	_	_	NE	_	_	_	_
+8	Stock	Stock	NNP	9	nn	-	-	_	_	_	NE	_	_	_	_
+9	Exchange	exchange	NNP	4	pobj	-	+	_	_	_	_	_	LOC	_	_
+10	,	,	,	13	punct	-	-	_	_	_	_	_	_	_	_
+11	Cincinnati	Cincinnati	NNP	12	nn	-	-	_	_	_	_	NE	_	_	_
+12	Bell	bell	NNP	13	nsubj	-	+	_	_	_	_	_	ACT-arg	_	_
+13	fell	fall	VBD	0	root	+	+	ev-w1273f5	_	_	_	_	_	_	_
+14	25	25	CD	15	num	-	-	_	_	_	_	_	_	RSTR	_
+15	cents	cent	NNS	13	dobj	-	+	_	_	_	_	_	DIFF	_	_
+16	to	to	TO	13	prep	-	-	_	_	_	_	_	_	_	_
+17	$	$	$	16	pobj	-	+	_	_	_	_	_	PAT-arg	_	_
+18	29	29	CD	17	num	-	-	_	_	_	_	_	_	_	RSTR
+19	.	.	.	13	punct	-	-	_	_	_	_	_	_	_	_
+
+#21999040
+1	The	the	DT	2	det	-	-	_	_	_	_	_	_	_	_	_
+2	company	company	NN	3	nsubj	-	-	_	ACT-arg	_	_	_	_	_	_	_
+3	said	say	VBD	0	root	+	+	ev-w2833f1	_	_	_	_	_	_	_	_
+4	that	that	IN	10	mark	-	-	_	_	_	_	_	_	_	_	_
+5	the	the	DT	6	det	-	-	_	_	_	_	_	_	_	_	_
+6	number	number	NN	10	nsubj	-	+	_	_	_	_	ACT-arg	_	_	_	_
+7	of	of	IN	6	prep	-	-	_	_	_	_	_	_	_	_	_
+8	access	access	NN	9	nn	-	-	_	_	_	RSTR	_	_	_	_	_
+9	lines	line	NNS	7	pobj	-	+	_	_	MAT	_	_	_	_	_	_
+10	dropped	drop	VBD	18	advcl	-	+	ev-w1065f3	EFF-arg	_	_	_	CONJ.member	_	_	_
+11	slightly	slightly	RB	10	advmod	-	-	_	_	_	_	EXT	_	_	_	_
+12	in	in	IN	10	prep	-	-	_	_	_	_	_	_	_	_	_
+13	the	the	DT	14	det	-	-	_	_	_	_	_	_	_	_	_
+14	quarter	quarter	NN	12	pobj	-	-	_	_	_	_	TPAR	_	_	_	_
+15	,	#Comma	,	18	punct	-	+	_	_	_	_	_	_	_	_	_
+16	a	a	DT	17	det	-	-	_	_	_	_	_	_	_	_	_
+17	decline	decline	NN	18	nsubj	-	+	_	EFF-arg	_	_	_	CONJ.member	_	_	_
+18	attributed	attribute	VBN	3	ccomp	-	+	ev-w164f1	_	_	_	_	_	RSTR	_	_
+19	to	to	TO	18	prep	-	-	_	_	_	_	_	_	_	_	_
+20	seasonal	seasonal	JJ	21	amod	-	-	_	_	_	_	_	_	_	_	RSTR
+21	fluctuations	fluctuation	NNS	19	pobj	-	+	_	_	_	_	_	_	_	ADDR-arg	_
+22	.	.	.	3	punct	-	-	_	_	_	_	_	_	_	_	_
+
+#21999041
+1	For	for	IN	12	prep	-	-	_	_	_	_
+2	the	the	DT	3	det	-	-	_	_	_	_
+3	year	year	NN	1	pobj	-	-	_	_	THL	_
+4	,	,	,	12	punct	-	-	_	_	_	_
+5	however	however	RB	12	advmod	-	-	_	_	PREC	_
+6	,	,	,	12	punct	-	-	_	_	_	_
+7	access	access	NN	8	nn	-	-	_	RSTR	_	_
+8	lines	line	NNS	12	nsubj	-	+	_	_	ACT-arg	_
+9	in	in	IN	8	prep	-	-	_	_	_	_
+10	service	service	NN	9	pobj	-	-	_	LOC	_	_
+11	have	have	VBP	12	aux	-	-	_	_	_	_
+12	increased	increase	VBN	0	root	+	+	ev-w1678f2	_	_	_
+13	5.5	5.5	CD	14	num	-	-	_	_	_	RSTR
+14	%	#Percnt	NN	12	dobj	-	+	_	_	DIFF	_
+15	.	.	.	12	punct	-	-	_	_	_	_
+
+#21999042
+1	Chairman	chairman	NNP	3	nn	-	-	_	RSTR	_	_	_	_	_	_	_	_	_
+2	D.H.	D.H.	NNP	3	nn	-	-	_	NE	_	_	_	_	_	_	_	_	_
+3	Hibbard	hibbard	NNP	4	nsubj	-	+	_	_	ACT-arg	_	_	_	_	_	_	_	_
+4	said	say	VBD	0	root	+	+	ev-w2833f1	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	6	det	-	-	_	_	_	_	_	_	_	_	_	_	_
+6	company	company	NN	8	nsubj	-	-	_	_	_	ACT-arg	_	_	ACT-arg	_	_	_	_
+7	has	have	VBZ	8	aux	-	-	_	_	_	_	_	_	_	_	_	_	_
+8	set	set	VBN	4	ccomp	-	+	ev-w2900f7	_	EFF-arg	_	_	_	_	_	_	_	_
+9	a	a	DT	13	det	-	-	_	_	_	_	_	_	_	_	_	_	_
+10	new	new	JJ	13	amod	-	-	_	_	_	_	_	RSTR	_	_	_	_	_
+11	five	five	CD	13	num	-	-	_	_	_	_	RSTR	_	_	_	_	_	_
+12	year	year	NN	13	nn	-	+	_	_	_	_	_	TWHEN	_	_	_	_	_
+13	goal	goal	NN	8	dobj	-	+	_	_	_	PAT-arg	_	_	_	_	_	_	_
+14	of	of	IN	13	prep	-	-	_	_	_	_	_	_	_	_	_	_	_
+15	doubling	double	VBG	14	pcomp	-	+	ev-w1040f2	_	_	_	_	PAT-arg	_	_	_	_	_
+16	revenues	revenue	NNS	15	dobj	-	-	_	_	_	_	_	_	PAT-arg	_	_	_	_
+17	to	to	TO	15	prep	-	-	_	_	_	_	_	_	_	_	_	_	_
+18	about	about	IN	19	quantmod	-	-	_	_	_	_	_	_	_	_	EXT	_	_
+19	$	$	$	17	pobj	-	+	_	_	_	_	_	_	EFF-arg	_	_	_	_
+20	1.8	1.8	CD	19	number	-	+	_	_	_	_	_	_	_	_	_	RSTR	_
+21	billion	billion	CD	19	number	-	+	_	_	_	_	_	_	_	RSTR	_	_	_
+22	while	while	IN	24	mark	-	-	_	_	_	_	_	_	_	_	_	_	_
+23	steadily	steadily	RB	24	advmod	-	-	_	_	_	_	_	_	_	_	_	_	MANN
+24	increasing	increase	VBG	15	advcl	-	+	ev-w1678f1	_	_	_	_	_	TPAR	_	_	_	_
+25	net	net	NN	24	dobj	-	-	_	_	_	_	_	_	_	_	_	_	PAT-arg
+26	.	.	.	4	punct	-	-	_	_	_	_	_	_	_	_	_	_	_
+
